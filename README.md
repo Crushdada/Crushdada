@@ -6,11 +6,17 @@
 - 📫 How to reach me：reach me via my Email
 
 <h3>📱 Contact </h3>
-![image](https://user-images.githubusercontent.com/73060999/170512955-e464b6d7-779e-4554-aac1-5502aac0c0e1.png) 
-crushdada@foxmail.com
+<div style="position:absolute;display:flex;align-items:center">
+  <img style="display:inline-block" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+Email:crushdada@foxmail.com
+Wechat: lemonapplepie
+</div>
+<div style="display:flex">
+<img style="display:inline-block" src="https://user-images.githubusercontent.com/73060999/170510869-b2989077-d903-475b-81ce-f0f8ec3cc9f0.png" />
+<img style="display:inline-block" src="https://user-images.githubusercontent.com/73060999/170510943-3c797f3a-6429-4bf9-bae3-3d8d808c790b.png" />
 
-![image](https://user-images.githubusercontent.com/73060999/170510869-b2989077-d903-475b-81ce-f0f8ec3cc9f0.png)
-![image](https://user-images.githubusercontent.com/73060999/170510943-3c797f3a-6429-4bf9-bae3-3d8d808c790b.png)
+</div>
+
 
 
 <!---
