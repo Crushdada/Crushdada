@@ -1,23 +1,13 @@
-![Crushdada](https://user-images.githubusercontent.com/73060999/170509661-c4727b14-8031-47ca-8a3d-545e53f14a3f.png)
+![Crushdada](https://user-images.githubusercontent.com/73060999/170519429-b2c44191-1832-4997-bed8-e38aa409d1b6.png)
 
 - 👋 Hi, I’m @Crushdada
 - 👀 I’m interested in Front-end Development
-- 🌱 I'm looking for a front-end job.
+- 🌱 I'm looking for a Front-end job.
+- ✅ Just send me an offer, plz.
 - 📫 How to reach me：reach me via my Email
 
-<h3>📱 Contact </h3>
-<div style="position:absolute;display:flex;align-items:center">
-  <img style="display:inline-block" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-Email:crushdada@foxmail.com
-Wechat: lemonapplepie
-</div>
-<div style="display:flex">
-<img style="display:inline-block" src="https://user-images.githubusercontent.com/73060999/170510869-b2989077-d903-475b-81ce-f0f8ec3cc9f0.png" />
-<img style="display:inline-block" src="https://user-images.githubusercontent.com/73060999/170510943-3c797f3a-6429-4bf9-bae3-3d8d808c790b.png" />
-
-</div>
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Crushdada&count_private=true&show_icons=true&theme=dracula"/>
+<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="265" height="195"/>
 
 <!---
 Crushdada/Crushdada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
