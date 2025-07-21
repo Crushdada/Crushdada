@@ -4,7 +4,7 @@
 - 👀 I’m interested in Front-end Development
 - 🌱 I'm looking for a Front-end job.
 - ✅ Just send me an offer, plz.
-- 📫 How to reach me：reach me via my Email
+- 📫 How to reach me：reach me via my Email  crushdada2023@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Crushdada&count_private=true&show_icons=true&theme=dracula"/>
 <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="265" height="195"/>
