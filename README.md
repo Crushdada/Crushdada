@@ -14,7 +14,7 @@
 - 🌳 **[TreeViz](https://treeviz.netlify.app)** - Interactive binary tree visualization tool for learning data structures
 - ⏰ **[MomentJS Runner](https://momentjs-runner.netlify.app)** - Online playground for testing MomentJS and DayJS date manipulations
 - 🌐 **[Tab Translation](https://tab-translation.netlify.app/)** - Smart browser extension for instant Chinese to English translation
-- 🥷 **村里人头像助手** - WeChat mini-program for creating Naruto-style avatars (微信小程序)
+
 
 ## 📫 How to reach me
 - reach me via my Email  crushdada2023@gmail.com
