@@ -9,11 +9,11 @@
 - 🎯 **Actively seeking front-end opportunities** - let's build something amazing together!
 
 ## 🛠️ Featured Projects
-
-- 🎨 **[PixelKitten](https://pixelkitten.netlify.app)** - Transform your images into beautiful pixel art with customizable effects
 - 🌳 **[TreeViz](https://treeviz.netlify.app)** - Interactive binary tree visualization tool for learning data structures
-- ⏰ **[MomentJS Runner](https://momentjs-runner.netlify.app)** - Online playground for testing MomentJS and DayJS date manipulations
+- 📚 **[chathub-mcp-server](https://www.npmjs.com/package/chathub-mcp-server)** - MCP, an AI real-time processing and clipping tool based on notion
 - 🌐 **[Tab Translation](https://tab-translation.netlify.app/)** - Smart browser extension for instant Chinese to English translation
+- 🎨 **[PixelKitten](https://pixelkitten.netlify.app)** - Transform your images into beautiful pixel art with customizable effects
+- ⏰ **[MomentJS Runner](https://momentjs-runner.netlify.app)** - Online playground for testing MomentJS and DayJS date manipulations
 
 
 ## 📫 How to reach me
